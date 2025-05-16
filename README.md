@@ -33,3 +33,29 @@
 ## The Notes about the program's phases of the three approaches
 
 *   [Program Phases](Program/Phases/Notes.md)
+
+<br>
+<br>
+<br>
+<br>
+
+<br>
+
+---
+
+<br>
+
+---
+
+<p align="center">
+  <span style="font-size: 48px; font-family: 'Helvetica Neue', sans-serif; color: #2E86C1; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
+    🎉 THANK YOU! 🎉
+  </span>
+</p>
+
+<p align="center">
+  <span style="font-size: 24px; font-style: italic; color: #555; font-family: 'Georgia', serif;">
+    Cheers,<br>
+    <b>ShakerBr</b>
+  </span>
+</p>
