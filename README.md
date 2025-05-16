@@ -24,7 +24,7 @@
 
 ## The notes about the Android Aplication
 
-*   [Android APP](Android%Aplication%Notes/ReadME.md)
+*   [Android APP](/Android%Aplication%Notes/ReadME.md)
 
 <br>
 
@@ -32,7 +32,7 @@
 
 ## The Notes about the program's phases of the three approaches
 
-*   [Program Phases](Program%Phases/Notes.md)
+*   [Program Phases](/Program%Phases/Notes.md)
 
 <br>
 <br>
