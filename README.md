@@ -24,7 +24,7 @@
 
 ## The notes about the Android Aplication
 
-*   [Android APP](Android%20Aplication%20Notes/ReadME.md)
+*   [Android APP](/Android%20Aplication%20Notes/ReadME.md)
 
 <br>
 
