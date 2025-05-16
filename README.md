@@ -32,7 +32,7 @@
 
 ## The Notes about the program's phases of the three approaches
 
-*   [Program Phases](Program%20Phases/Notes.md)
+*   [Program Phases](/Program%20Phases/Notes.md)
 
 <br>
 <br>
