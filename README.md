@@ -18,6 +18,10 @@
 
 <br>
 
+*   [The Application Detailed](The%20Application%20Detailed.md)
+
+<br>
+
 ---
 
 <br>
