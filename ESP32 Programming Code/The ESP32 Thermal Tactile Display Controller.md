@@ -6,11 +6,11 @@
 
 This firmware transforms an ESP32 microcontroller into a standalone controller for a 4x5 thermal tactile display. The system allows users to interact with and control the display through a web interface hosted by the ESP32 itself.
 
-![Img](/Screenshot%202025-05-25%20133836.png)$0
+![Img](Screenshot%202025-05-25%20133836.png)
 
-![Img](/Screenshot%202025-05-25%20133912.png)$0
+![Img](Screenshot%202025-05-25%20133912.png)
 
-![Img](/Screenshot%202025-05-25%20133956.png)$0
+![Img](Screenshot%202025-05-25%20133956.png)
 
 **1. Core Functionality:**
 
