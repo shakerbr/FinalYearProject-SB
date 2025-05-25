@@ -18,9 +18,7 @@
 
 <br>
 
-*   [The Application Detailed](The%20Application%20Detailed.md)
-
-*   [Download Here!](https://drive.google.com/file/d/1JnHkRlknB7lKMz_XLDYMY5by-7gmEFHd/view?usp=drive_link)
+*   [The Application Detailed](The%20Application%20Detailed.md) - [<span style="color: red;">*`Download Now`*</span>](https://drive.google.com/file/d/1JnHkRlknB7lKMz_XLDYMY5by-7gmEFHd/view?usp=drive_link)
 
 <br>
 
@@ -40,9 +38,7 @@
 
 ## The notes about the Android Aplication
 
-*   [Android APP Built Details](/Android%20Application%20Notes/ReadME.md)
-
-*   [Download Here!](https://drive.google.com/file/d/1JnHkRlknB7lKMz_XLDYMY5by-7gmEFHd/view?usp=drive_link)
+*   [Android APP Built Details](/Android%20Application%20Notes/ReadME.md) - [<span style="color: red;">*`Download Now`*</span>](https://drive.google.com/file/d/1JnHkRlknB7lKMz_XLDYMY5by-7gmEFHd/view?usp=drive_link)
 
 <br>
 
