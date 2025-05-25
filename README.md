@@ -26,9 +26,19 @@
 
 <br>
 
+## Description of the ESP32 Thermal Tactile Display Firmware
+
+*   [The ESP32 Thermal Tactile Display Controller](/ESP32%20Programming%20Code/The%20ESP32%20Thermal%20Tactile%20Display%20Controller.md)
+
+<br>
+
+---
+
+<br>
+
 ## The notes about the Android Aplication
 
-*   [Android APP](/Android%20Application%20Notes/ReadME.md)
+*   [Android APP Built Details](/Android%20Application%20Notes/ReadME.md)
 
 <br>
 
