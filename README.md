@@ -1,5 +1,15 @@
 # Project Documentation
 
+## The Research Paper
+
+* [Tactile Based Vision Sensory Substitution](Paper%20V2%20-%20Tactile%20Based%20Vision%20Sensory%20Substitution.pdf)
+
+<br>
+
+---
+
+<br>
+
 ## The Three Approaches and Comparation between them:
 
 *   [The 1st Approach - Edge Detection and Contour Simplification then Choosing the Closed Subjects to the Center](The%201st%20Approach%20-%20Edge%20Detection%20and%20Contour%20Simplification%20then%20Choosing%20the%20Closed%20Subjects%20to%20the%20Center.md)
